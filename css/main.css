@@ -275,6 +275,10 @@ p.lead {
     color: #000000;
 }
 
+.about-text {
+    text-align: justify;
+}
+
 @media (min-width:450px) and (max-width:800px) {
 
     html {
